@@ -1,0 +1,2 @@
+# datascience
+This is a Data Science based project where the analysis of the dataset Industrial Safety and Health Analytics Database is done to help companies understand why employees still suffer from injuries or accidents in plants. This might help the community explore and take better insights from the data. This can also help in manufacturing plants with the additional security and safety required.
